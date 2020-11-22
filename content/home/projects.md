@@ -21,13 +21,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "Undergraduate Thesis of Sichuan University: MCMC Methods Based on Riemann Manifold and Their Applications"
+     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "“The Little Spark” Program of Sichuan University: Research on Overbooking of Plane Tickets"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Other"
