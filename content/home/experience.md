@@ -39,12 +39,12 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2019-08"
   date_end = "2019-08"
-  description = """Data Science Research Project"""
-  
-  Responsibilities include:
-  * Analyzed ARMA model’s applications on aquiculture and weather
-forecast
-  * Served as a team leader and developed team discussions
-  * Adopted different methods, such as sitcom and video production to
-make presentations
+  description: |-
+   Data Science Research Project
+   Responsibilities
+   * Analyzed ARMA model’s applications on aquiculture and weather
+     forecast
+   * Served as a team leader and developed team discussions
+   * Adopted different methods, such as sitcom and video production to
+     make presentations
 +++
