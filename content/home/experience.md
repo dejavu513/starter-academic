@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Peking University"
   company_url = ""
   location = "Beijing"
-  date_start = "2018-09-01"
+  date_start = "2018-09-17"
   date_end = "2019-01-22"
   description = """
   Courses includes
