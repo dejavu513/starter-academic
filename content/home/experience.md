@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-09"
   date_end = "2019-01"
   description = """
-  Courses include:
+  Courses includes
   
   * Functional Analysis(2)
   * Stochastic processes
@@ -41,8 +41,8 @@ date_format = "Jan 2006"
   date_end = "2019-08-21"
   description = """
    Data Science Research Project
-   Responsibilities
-   * Analyzed ARMA model’s applications on aquiculture and weather
+   Responsibilities includes
+   * Analyzed the applications of ARMA model on aquiculture and weather
      forecast
    * Served as a team leader and developed team discussions
    * Adopted different methods, such as sitcom and video production to
