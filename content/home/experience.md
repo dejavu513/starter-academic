@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   * Functional Analysis(2)
   * Stochastic processes
   * Time series
+  * ...
   """
 
 [[experience]]
