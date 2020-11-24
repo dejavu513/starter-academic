@@ -6,7 +6,7 @@ title: Jun Cheng
 superuser: false
 
 # Role/position
-role: Postgraduate student of Imperial College London
+role: Postgraduate student at Imperial College London
 
 # Organizations/Affiliations
 
