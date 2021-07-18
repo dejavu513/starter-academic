@@ -14,8 +14,7 @@ role: Postgraduate student at Imperial College London
 bio: My research interests include Markov chain Monte Carlo, Bayesian inference and the general theory of stochastic processes.
 
 interests:
-- Hamilton Monte Carlo 
-- Stochastic Processes
+- Monte Carlo Methods 
 - Bayesian inference
 
 
